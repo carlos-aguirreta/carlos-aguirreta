@@ -1,16 +1,13 @@
+<div align="center">
 ## Hi, I'm Carlos Aguirre 👋
-<img src="https://imgur.com/a/gDLt00M">
-<!--
-**carlos-aguirreta/carlos-aguirreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<img src="https://imgur.com/a/gDLt00M](https://i.imgur.com/5xq2Uov.jpeg">
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data Analyst specialized in Business Intelligence and Customer Experience (CX).
+- 🎓 TripleTen Data Analysis Bootcamp Graduate.
+- 🏗️ Background in Architecture & Project Management, combining structural design principles with data storytelling.
+- 🐍 Proficient in Python (Pandas, NumPy, Scikit-learn) and SQL for large-scale data manipulation.
+- 📈 Advanced dashboard creator in Tableau and Power BI (<a href="https://public.tableau.com/app/profile/carlos.aguirre3580/vizzes">Check my Tableau Public<a>).
+- 🌍 English C1 (IELTS 7.5), experienced in collaborating within international and remote environments.
