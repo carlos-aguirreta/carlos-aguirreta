@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Carlos Aguirre 👋
+<img src="https://imgur.com/a/gDLt00M">
 <!--
 **carlos-aguirreta/carlos-aguirreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
